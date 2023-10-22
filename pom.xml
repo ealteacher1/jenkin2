@@ -119,7 +119,7 @@
           <version>2.22.1</version>
           <configuration>
 			  <suiteXmlFiles>
-				  <suiteXmlFile>runtime\executionProfiles\testng1.xml</suiteXmlFile>
+				  <suiteXmlFile>Pipeline\${xmlFiles}</suiteXmlFile>
 			  </suiteXmlFiles>
 		  </configuration>
         </plugin>
